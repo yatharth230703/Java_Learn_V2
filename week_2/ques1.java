@@ -19,10 +19,6 @@ public class ques1 {
         int c = in.nextInt();
         double avg = (a+b+c)/3 ;
         System.out.println("The average value is " + avg);
-        
-
-        
-        
         in.close();
     }
 }
